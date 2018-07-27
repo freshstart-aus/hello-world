@@ -1,2 +1,6 @@
 # hello-world
-Get started
+
+
+See the [hello-world](https://guides.github.com/activities/hello-world/) GitHub guide.
+
+
